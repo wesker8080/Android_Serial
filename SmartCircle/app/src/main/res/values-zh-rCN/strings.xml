@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">智能圈圈</string>
+    <string name="login">注册</string>
+    <string name="login_f">指纹登陆</string>
+    <string name="login_rest">重置</string>
+    <string name="register_title">信息录入</string>
+    <string name="register_name">姓名 : </string>
+    <string name="register_sex">性别 : </string>
+    <string name="register_age">年龄 : </string>
+    <string name="register_tall">身高 : </string>
+    <string name="register_sex_man">男</string>
+    <string name="register_sex_woman">女</string>
+    <string name="ensure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="register_age_hint">选择年龄</string>
+    <string name="register_tall_hint">选择身高</string>
+    <string name="register_name_hint">输入姓名</string>
+    <string name="dialog_name_null">姓名不能为空</string>
+    <string name="dialog_fingerprint_entry">请录入指纹</string>
+    <string name="dialog_test_entry">请开始测试</string>
+    <string name="toast_success">成功</string>
+    <string name="info_title_time">时间</string>
+    <string name="info_title_weight">体重</string>
+    <string name="info_title_fat">体脂</string>
+    <string name="info_title_rate">心率</string>
+    <string name="info_title_blood">血压</string>
+    <string name="info_title_temp">体温</string>
+
+</resources>
